@@ -32,3 +32,13 @@
  3. Tropical Fruits : 3.50JD
 
  ![tropicalfruits](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYi82qTxBoA2yslISszTpDBSzoN3NteBmh6w&usqp=CAU)
+ ** the wire frame**
+ ![page](./img/1.jpg)
+
+ ![page2](./img/2.jpg)
+
+ ![page3](./img/3.jpg)
+
+ ![page4](./img/4.jpg)
+
+ 
